@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Also, Checkout for this project client app [click here!!!](https://github.com/MuhammadMoiz200099/socket_rooms_chat_app_client)
+Also, Checkout for this project client app [click here!!!](https://github.com/MuhammadMoiz200099/chat-room)
 
 ## Available Scripts
 
