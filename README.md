@@ -1,4 +1,4 @@
-# React Chat Application using Socket and Rooms
+# Backend For Chat Application using Socket and Rooms
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
